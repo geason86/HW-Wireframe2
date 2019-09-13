@@ -1,0 +1,244 @@
+body {
+    background-color: blanchedalmond;
+    background-blend-mode: color-burn;
+    margin: 0px;
+    padding: 0px;  
+}
+
+
+#name {
+    background-color: #008080;
+    margin-left: 263px;
+    float: left;
+    height: 100px;
+    color: #ebebeb;
+    width: 265px;
+    text-align: center;
+
+}
+
+#container {
+    background-color: white;
+    margin-top: 100px;
+    width: 960px;
+    height: 575px;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 20px; 
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+#about {
+    margin-left: 30px;
+    color: teal;
+    padding-top: 30px;
+}
+
+#across {
+    background-color: black;
+}
+
+img {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    
+}
+
+#picture {
+    float: left;
+    margin-right: 10px;
+
+}
+
+#end {
+    width: 100%;
+    background-color: green;
+    height: 60px;
+    clear: both;
+}
+
+
+#last {
+    float: left;
+    margin-left: 700px;
+    width: 100px;
+}
+
+header {
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: white;
+    height: 100px;
+    border-bottom: 10px gray;
+    overflow: auto; 
+    border: solid;
+}
+
+#name {
+    background-color: #008080;
+    margin-left: 263px;
+    float: left;
+    height: 100px;
+    color: #ebebeb;
+    width: 265px;
+    text-align: center;
+}
+
+#inline {
+    margin-top: 19px;
+    float: right;
+    margin-right: 274px; 
+    color: gray; 
+}
+
+.container {
+    background-color: white;
+    margin-top: 100px;
+    width: 960px;
+    height: 450px;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 0;   
+}
+
+#first {
+    margin-left: 32px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: gray;
+}
+
+#about {
+    margin-left: 30px;
+    color: teal;
+    padding-top: 30px;
+}
+
+#line {
+    background-color: gray;
+    height: 3px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+#new {
+    background-color: white; 
+    border: solid;
+    height: 20px;
+    margin-left: 32px;
+    margin-right: 32px;
+    border-width: thin;
+    margin-top: 0;
+    color: gray;
+}
+
+#con {
+    margin-left: 32px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border-width: thin;
+    height: 20px;
+    color: gray;
+}
+
+#next {
+    margin-left: 32px;
+    margin-right: 32px;
+    border: solid;
+    height: 20px;
+    border-width: thin;
+    color: gray;
+}
+
+#talk {
+    border-width: thin;
+    margin-left: 32px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: gray;
+    border-color: gray;
+}
+
+#mess {
+    margin-left: 32px;
+    border: solid;
+    margin-right: 32px;
+    height: 100px;
+    margin-top: 0px;
+    border-width: thin; 
+    border-color: gray;
+}
+
+#push {
+    float: left;
+    margin-left: 32px;
+    background-color: teal;
+    height: 25px;
+    margin-top: 20px;
+}
+
+#end {
+    width: 100%;
+    background-color: green;
+    height: 60px;
+    clear: both;
+}
+
+footer {
+    background-color: darkgray;
+    width: 100%;
+   height: 71px;
+   margin-top: 150px; 
+   border: solid;
+}
+
+#last {
+    float: left;
+    margin-left: 700px;
+    width: 100px;
+}
+
+p {
+    color: gray;
+}
+
+#hangman {
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+
+#boxy {
+    float: left;
+    height: 35px;
+    width: 150px;
+    margin-left: -150px;
+    background-color: teal;
+    margin-top: 50px;
+    position: relative;
+    margin-top: 100px;
+}
+
+#rpg {
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 90px;
+    height: 150px;
+}
+
+#boxxxy {
+        float: left;
+        height: 35px;
+        width: 150px;
+        margin-left: -150px;
+        background-color: teal;
+        margin-top: 50px;
+        position: relative;
+        margin-top: 100px;
+}
